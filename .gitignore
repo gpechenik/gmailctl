@@ -2,3 +2,7 @@
 mycfg.jsonnet
 *.snap
 /tmp
+config.jsonnet
+credentials.json
+token.json
+.gstack/
